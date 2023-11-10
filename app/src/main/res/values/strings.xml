@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextView</string>
+    <string name="txtview">let\'s Count here : 0 </string>
+</resources>
